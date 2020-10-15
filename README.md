@@ -1,5 +1,5 @@
-# loanprediction
-Home Loan Approval Prediction
+# Home Loan Approval Prediction
+
 
 This is a standard supervised classification task.   
 A classification problem where we have to predict whether a loan would be approved  based on customer detail provided.  
